@@ -56,9 +56,14 @@ button {
 
 .content form label {
   font-size: 14px;
-  columns: #444444;
   font-weight: bold;
+  columns: #444444;
   margin-bottom: 8px;
+}
+.content form label span {
+  font-size: 12px;
+  font-weight: normal;
+  columns: #999999;
 }
 
 .content form input {
